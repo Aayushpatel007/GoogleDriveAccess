@@ -1,6 +1,6 @@
-# DR.Bot
+# Healthify.AI
 
-One Paragraph of project description goes here
+An automatic trained voice-enabled chatbot with images and video support which does not allow you to feel absense of doctor,hosptial staff and management by solving your desired quests.
 
 ## Getting Started
 
