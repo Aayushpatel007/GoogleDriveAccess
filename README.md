@@ -1,6 +1,13 @@
 # Healthify.AI
 
-An automatic trained voice-enabled chatbot with images and video support which does not allow you to feel absense of doctor,hosptial staff and management by solving your desired quests.
+### An automatic trained voice-enabled conversational chatbot with images and video support which does not allow you to feel absense of doctor, hosptial staff and management by solving your desired quests.
+
+## Purpose
+
+Given the fact that every person is unique, some medical conditions are atypical and that bots can’t communicate effectively (at least not yet), the answer for now is no. 
+However, with rise of Artificial Intelligence and Chat-Bots probelms can be solved to a huge extent which will save patients and practitioners time and money while allowing a greater level of oversight.
+
+
 
 ## Getting Started
 
