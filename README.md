@@ -80,25 +80,24 @@ But, what if user's are not satisfied with the response they get from the chat-b
 
 * **After finishing the conversation, user has to submit their ratings. If ratings are low they will be directed to an Submission form in which they will share their problem. By this, we can train the chat-bot more accurate and precise.**
 
+<table>
+<tr>
+<th><img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/WhatsApp%20Image%202019-02-03%20at%207.56.07%20AM.jpeg" width="240" height="340"></th>
+
+</tr>
+<table>
 
 ## Deployment
 
 * **Web application and Python code (Flask API) is hosted on heroku**
 * **You can get Android APK from this git repository**
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Aayush Patel** 
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
+* **Raj Shah** 
+* **Arnav Rupde** 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Dotslash 2019 - For giving a huge platform to build something great in a short period of time
