@@ -14,7 +14,7 @@ Given the fact that every person is unique, some medical conditions are atypical
 
 ## Our Solution- Healthify.AI 
 
-<img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/Healthify.png" width="530" height="450" align="middle">
+<img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/Healthify.png" width="560" height="480" style="vertical-align:center;">
 
 * ****
 
