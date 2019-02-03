@@ -21,53 +21,33 @@ Given the fact that every person is unique, some medical conditions are atypical
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Here, you will be able to step wise instructions to run this bot. Additionally, outputs of different conversations will be provide which will demonstrate use of AI and Natural Language Processing.These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
+### Installing & Prerequisites
 
 A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
 ```
-Give the example
+pip install difflib  => Sequence matching algorithm
 ```
-
-And repeat
-
 ```
-until finished
+pip install flask  => For API
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
 ```
-Give an example
+pip install snips-nlu  => Natural Language Understanding Library
+```
+```
+Install Android Studio latest version => Sequence matching algorithm
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+```
+implementation 'com.github.shrikanth7698:ChatView:v0.1.2'  => For Chat View in Android Studio
 
 ```
-Give an example
 ```
+implementation 'com.android.volley:volley:+'
+```
+
+## Output 
 
 ## Deployment
 
