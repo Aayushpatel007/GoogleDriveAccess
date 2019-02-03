@@ -83,6 +83,8 @@ Hence, We have a solution to this problem.
 
 * **Web Portal is developed for doctors, as whenever they get time from their hectic schedule they can update information to user's by filling a web form**
 
+<img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/addquest.png" width="790" height="470">
+
 But, what if user's are not satisfied with the response they get from the chat-bot.Again we have provided a solution to this issue.
 
 * **After finishing the conversation, user has to submit their ratings. If ratings are low they will be directed to an Submission form in which they will share their problem. By this, we can train the chat-bot more accurate and precise.**
