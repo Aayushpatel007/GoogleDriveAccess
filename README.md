@@ -57,6 +57,16 @@ implementation 'com.android.volley:volley:+'
 </tr>
 <table>
 
+## Note
+
+### In output: Last image shows that chat-bot gives the same answers to different questions which means the same meaning.
+i.e Even after rephrasing the question the chat-bot is able to answer the questions with same answers. 
+Eg: 1. What should I diet?
+    2. What should I eat in diet?
+    3. Tell me what can I eat in diet? ,etc.
+    
+### Additionally, Videos are also shown during chat if users wants to know more about it.
+
 
 ## Deployment
 
