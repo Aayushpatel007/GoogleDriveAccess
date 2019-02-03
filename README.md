@@ -51,7 +51,7 @@ implementation 'com.android.volley:volley:+'
 <table>
 <tr>
 <th><img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/WhatsApp%20Image%202019-02-03%20at%206.55.43%20AM.jpeg" width="240" height="340"></th>
-<th><img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/img1.jpeg"></th>
+<th><img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/img1.jpeg"width="240" height="340"></th>
 <th><img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/img2.jpeg" width="240" height="340"></th>
 <th><img src="https://github.com/Aayushpatel007/GoogleDriveAccess/blob/master/WhatsApp%20Image%202019-02-01%20at%2010.10.08%20PM.jpeg" width="240" height="340"></th>
 </tr>
