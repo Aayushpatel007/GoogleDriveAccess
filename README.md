@@ -59,13 +59,29 @@ implementation 'com.android.volley:volley:+'
 
 ## Note
 
-### In output: Last image shows that chat-bot gives the same answers to different questions which means the same meaning.
+### In output: 
+* **Last image shows that chat-bot gives the same answers to different questions which means the same meaning.
 i.e Even after rephrasing the question the chat-bot is able to answer the questions with same answers. 
 Eg: 1. What should I diet?
     2. What should I eat in diet?
-    3. Tell me what can I eat in diet? ,etc.
+    3. Tell me what can I eat in diet? ,etc.**
     
-### Additionally, Videos are also shown during chat if users wants to know more about it.
+* **Additionally, Videos are also shown during chat if users wants to know more about it.**
+
+## Now here is a big game changer which make Helthify.AI a self learning bot !!
+
+* **As, Currently we have a limited dataset of patient-doctor & patient-hospital-staff / Receptionist. But we really want to keep user's updated with precise and up-to-date information.**
+
+Hence, We have a solution to this problem.
+
+* **Web Portal is developed for doctors, as whenever they get time from their hectic schedule they can update information to user's by filling a web form**
+
+But, what if user's are not satisfied with the response they get from the chat-bot.Again we have provided a solution to this issue.
+
+* **After finishing the conversation, user has to submit their ratings. If ratings are low they will be directed to an Submission form in which they will share their problem. By this, we can train the chat-bot more accurate and precise.**
+
+
+
 
 
 ## Deployment
