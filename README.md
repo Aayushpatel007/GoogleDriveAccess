@@ -70,7 +70,7 @@ Eg: 1. What should I diet?
 
 ## Now here is a big game changer which make Helthify.AI a self learning bot !!
 
-* **As, Currently we have a limited dataset of patient-doctor & patient-hospital-staff / Receptionist. But we really want to keep user's updated with precise and up-to-date information.**
+* **As, Currently we have a limited dataset of patient-doctor & patient-hospital-staff / receptionist Conversations. But we really want to keep user's updated with precise and up-to-date information.**
 
 Hence, We have a solution to this problem.
 
@@ -81,18 +81,10 @@ But, what if user's are not satisfied with the response they get from the chat-b
 * **After finishing the conversation, user has to submit their ratings. If ratings are low they will be directed to an Submission form in which they will share their problem. By this, we can train the chat-bot more accurate and precise.**
 
 
-
-
-
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* **Web application and Python code (Flask API) is hosted on heroku**
+* **You can get Android APK from this git repository**
 
 ## Contributing
 
